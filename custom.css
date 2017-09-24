@@ -1,3 +1,11 @@
+.clearfix:after
+{
+    content: '';
+    display: table;
+    width: 100%;
+    clear: both;
+} /*челик так делал*/
+
 body
 {
     font-family: Arial, sans-serif;
