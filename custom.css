@@ -132,7 +132,12 @@ div
     outline: 1px solid #FFD300;
 }
 .leftimg {
-    float:left; /* Выравнивание по левому краю */
-    margin-right: 10px; /* Отступы вокруг картинки */
+    float:left;
+    margin-right: 10px;
     display: block;
+}
+
+.color_black
+{
+    color: black;
 }
