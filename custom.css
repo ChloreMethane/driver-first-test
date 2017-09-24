@@ -1,0 +1,138 @@
+body
+{
+    font-family: Arial, sans-serif;
+    font-size: 16px;
+    padding: 0;
+    margin: 0;
+}
+
+header
+{
+    background-color: #FFD300;
+    height: 60px;
+}
+
+div
+{
+    box-sizing: border-box;
+}
+
+.outline
+{
+    padding: 10px;
+    outline: 1px solid #000;
+}
+.container
+{
+    width: 1280px;
+    border: 20px;
+    margin: 0 auto;
+}
+
+.header_logo
+{
+    padding-top: 15px;
+    float: left;
+}
+
+.menu
+{
+    padding: 0;
+    margin: 0;
+    display: block;
+}
+
+.menu a
+{
+    color: black;
+}
+.menu_indent
+{
+    float: left;
+    display: block;
+    margin-top: 10px;
+}
+.no_line a
+{
+    text-decoration: none;
+}
+
+.menu_phone
+{
+    text-decoration: none;
+    margin-left: 90px;
+    font-size: 22px;
+}
+
+.menu_lang
+{
+    margin-left: 180px;
+}
+
+.menu_sign_in
+{
+    margin-top: 0;
+    margin-left: 150px;
+}
+
+.menu_gruz
+{
+    margin-left: 50px;
+}
+
+.bg
+{
+    margin-top: 20px;
+    background: url(img/bg2.jpg) no-repeat center top / cover;
+    width: 1250px;
+    height: 600px;
+}
+
+.titles
+{
+    color: white;
+
+}
+.title_first
+{
+    padding-top: 220px;
+    padding-left: 50px;
+    font-size: 40px;
+    font-weight:bold;
+}
+
+.title_second
+{
+    padding-top: 20px;
+    padding-left: 50px;
+    font-size: 20px;
+}
+
+.button
+{
+    padding-top: 40px;
+    padding-left: 80px;    color: white;
+    float: left;
+    display: block;
+}
+
+.outline_buttons
+{
+    padding: 10px;
+    margin-top: 40px;
+    margin-left: 80px;
+    outline: 1px solid white;
+}
+.outline_buttons_color
+{
+    background-color: #FFD300;
+    padding: 10px;
+    margin-top: 40px;
+    margin-left: 80px;
+    outline: 1px solid #FFD300;
+}
+.leftimg {
+    float:left; /* Выравнивание по левому краю */
+    margin-right: 10px; /* Отступы вокруг картинки */
+    display: block;
+}
