@@ -123,6 +123,10 @@ div
     margin-left: 80px;
     outline: 1px solid white;
 }
+.outline_buttons a
+{
+    color: white;
+}
 .outline_buttons_color
 {
     background-color: #FFD300;
@@ -130,6 +134,12 @@ div
     margin-top: 40px;
     margin-left: 80px;
     outline: 1px solid #FFD300;
+}
+
+.outline_buttons_color a
+{
+    color: black;
+
 }
 .leftimg {
     float:left;
@@ -140,4 +150,5 @@ div
 .color_black
 {
     color: black;
+    text-decoration: none;
 }
