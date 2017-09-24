@@ -85,7 +85,7 @@ div
     margin-top: 20px;
     background: url(img/bg2.jpg) no-repeat center top / cover;
     width: 1250px;
-    height: 600px;
+    height: 630px;
 }
 
 .titles
@@ -118,10 +118,11 @@ div
 
 .outline_buttons
 {
-    padding: 10px;
+    padding: 12px 20px;
     margin-top: 40px;
     margin-left: 80px;
-    outline: 1px solid white;
+    border: 1px solid white;
+    border-radius: 40px;
 }
 .outline_buttons a
 {
@@ -129,11 +130,12 @@ div
 }
 .outline_buttons_color
 {
+
     background-color: #FFD300;
-    padding: 10px;
+    border-radius: 20px;
+    padding: 12px 20px;
     margin-top: 40px;
-    margin-left: 80px;
-    outline: 1px solid #FFD300;
+    margin-left: 20px;
 }
 
 .outline_buttons_color a
